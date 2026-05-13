@@ -19,7 +19,7 @@
   "clueSendImage": true,
   "chatNotifyMessage": "%USERNAME% received a chat message:\n\n```\n%MESSAGE%\n```",
   "slayerEnabled": true,
-  "deathEnabled": true,
+  "deathEnabled": false,
   "combatTaskUnlockMessage": "%USERNAME% has unlocked the rewards for the %COMPLETED% tier, by completing the combat task: %TASK%",
   "deathMinValue": 10000,
   "deniedAccountTypes": [],
